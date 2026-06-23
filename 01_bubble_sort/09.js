@@ -1,5 +1,4 @@
 const sort2DArray = (arr) => {
-  console.log(arr);
   for (let i = 0; i < arr.length - 1; i++) {
     let swaped = false
     for (let j = 0; j < arr.length - 1-i; j++) {
